@@ -1,0 +1,10 @@
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\bin\Debug\Kursova.exe.config
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\bin\Debug\Kursova.exe
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\bin\Debug\Kursova.pdb
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.csprojAssemblyReference.cache
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.exe
+D:\GamesCreator\visual_studio\Курсова\Kursova\Kursova\obj\Debug\Kursova.pdb
